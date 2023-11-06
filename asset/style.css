@@ -384,6 +384,7 @@
   position: absolute;
   bottom: 100%;
   left: 50%;
+  font-size: 12px;
   color: black;
 
   transform: translateX(-50%);
