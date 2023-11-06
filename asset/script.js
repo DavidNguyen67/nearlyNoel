@@ -146,3 +146,6 @@ $('.kehalaman2').click(function () {
     document.getElementById('nama').focus();
   }
 });
+document.getElementById('lagu').addEventListener('ended', function () {
+  document.getElementById('lagu').play();
+});
